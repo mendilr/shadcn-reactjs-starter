@@ -80,6 +80,5 @@ module.exports = {
   },
   plugins: [
     require("tailwindcss-animate"),
-    require("tw-elements/dist/plugin.cjs"),
   ],
 };
